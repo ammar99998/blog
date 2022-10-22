@@ -1,0 +1,2 @@
+# blog
+project for almonkez
